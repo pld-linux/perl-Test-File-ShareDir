@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	File-ShareDir
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::File::ShareDir - Create a Fake ShareDir for your modules for testing
 Summary(pl.UTF-8):	Test::File::ShareDir - tworzenie udawanego ShareDir do testowania modułów
 Name:		perl-Test-File-ShareDir
